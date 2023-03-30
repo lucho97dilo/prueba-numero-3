@@ -3,3 +3,5 @@
 * luciano di lorenzo
 ## edad?
 * 25 años
+##NACIMIENTO?
+* santa fe, santa fe
